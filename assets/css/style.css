@@ -19,9 +19,11 @@ header{
 
 #my-name{
 		float: left;
-		background-color: blue;
+		background-color: #27AE60;
 		margin: -20px;
 		padding: 35px;
+		color: white;
+		font-family: arial black; 
 		
 	}
 		
@@ -92,6 +94,7 @@ section {
 	float: left;
 	padding: 10px;
 	margin-right: 20px;
+	background: white;
 }
 
 article{
